@@ -1,0 +1,9 @@
+# Git Ignore for Java Projects
+*.class
+*.jar
+.vscode/settings.json
+.vscode/.ropeproject
+*.iml
+.idea/
+bin/
+out/
